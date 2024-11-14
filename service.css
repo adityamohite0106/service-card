@@ -1,0 +1,24 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#assignment{
+    background: linear-gradient(135deg, #4C1D95 50%, #E5E7EB 50%);
+    height: 500px;
+    width: 90%;
+}
+.service-card{
+    width: 250px;
+    height: 250px;
+   
+}
+.icon-container{
+border: 2px solid #4C1D95 ;
+}
+.grid{
+    margin-top: 90px;
+}
+.icon_img{
+    border-radius: 50%;
+}
+
+/* ~ Aditya Mohite  adityamohite4973@gmail.com */
